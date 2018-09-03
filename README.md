@@ -1,1 +1,1 @@
-# coursera-capstone-project
+# IBM-Data-Science-capstone-project
