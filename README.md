@@ -1,1 +1,1 @@
-# IBM-Data-Science-capstone-project
+# IBM-Data-Science-projects
